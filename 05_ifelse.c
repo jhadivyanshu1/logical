@@ -1,7 +1,7 @@
 #include <stdio.h>
 int main (){
     int age = 39;
-    if (age>60){
+    if (age>45){
         printf ("you are a senior citizen and you can drive ");
     }
 else if (age>18){
@@ -13,4 +13,4 @@ else {
 }
     
     return 0;
-}it
+}
