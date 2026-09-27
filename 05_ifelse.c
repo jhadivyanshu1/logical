@@ -1,6 +1,6 @@
 #include <stdio.h>
 int main (){
-    int age = 19;
+    int age = 39;
     if (age>60){
         printf ("you are a senior citizen and you can drive ");
     }
